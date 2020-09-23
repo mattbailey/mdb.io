@@ -1,13 +1,13 @@
-baseURL = "https://mdb.io/"
+baseURL = "http://mdb.io/"
 languageCode = "en-us"
 title = "hi i am matt bailey"
 paginate=3 # articles per page
 copyright = "© matt bailey"
 
 # Code Highlight
-pygmentsstyle = "monokai"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+# pygmentsstyle = "monokai"
+# pygmentscodefences = true
+# pygmentscodefencesguesssyntax = true
 
 [module]
   [[module.imports]]
