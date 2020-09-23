@@ -1,4 +1,4 @@
-baseURL = "http://mdb.io/"
+baseURL = "https://mdb.io/"
 languageCode = "en-us"
 title = "hi i am matt bailey"
 paginate=3 # articles per page
