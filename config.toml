@@ -1,0 +1,32 @@
+baseURL = "https://mdb.io/"
+languageCode = "en-us"
+title = "hi i am matt bailey"
+paginate=3 # articles per page
+copyright = "© matt bailey"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/athul/archie"
+
+[params]
+	mode="auto" # color-mode → light,dark or auto
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/mdbailey/"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/mattbailey"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3

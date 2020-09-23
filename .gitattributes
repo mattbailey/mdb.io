@@ -1,0 +1,16 @@
+# never EVER use CRLF, Windows
+* text=auto
+* text eol=lf
+
+# binary assets
+*.bin binary
+*.gif binary
+*.png binary
+*.jpg binary
+*.woff binary
+*.woff2 binary
+*.svg binary
+
+# generted files, test data & vendored
+_vendor linguist-generated -diff
+go.sum linguist-generated -diff

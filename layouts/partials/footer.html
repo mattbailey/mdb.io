@@ -1,0 +1,12 @@
+<footer>
+{{- range $index, $key := .Site.Params.Social -}}
+  <a class="soc" href="{{ $key.url }}" title="{{ $key.name }}">
+<svg class="feather">
+  <use xlink:href="/images/feather-sprite.svg#{{ $key.icon }}"/>
+</svg>
+  </a>
+{{- end -}}
+	{{ dateFormat "2006" now }} {{ with .Site.Copyright }} {{ . }} {{ end }}
+</footer>
+{{- if (isset .Site.Params "social") -}}
+{{- end -}}
