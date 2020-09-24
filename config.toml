@@ -1,8 +1,8 @@
 baseURL = "https://mdb.io/"
 languageCode = "en-us"
-title = "hi i am matt bailey"
+title = "hi, i am matt bailey."
 paginate=3 # articles per page
-copyright = "© matt bailey"
+copyright = "© me"
 
 # Code Highlight
 # pygmentsstyle = "monokai"
