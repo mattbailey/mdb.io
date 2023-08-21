@@ -18,4 +18,4 @@ jobs:
       with:
         args: --gc --minify
       env:
-        GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN_HUGO }}
+        GITHUB_TOKEN: ${{ secrets.NEW_TOKEN }}
