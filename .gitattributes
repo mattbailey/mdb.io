@@ -10,6 +10,7 @@
 *.woff binary
 *.woff2 binary
 *.svg binary
+*.pdf binary
 
 # generted files, test data & vendored
 _vendor linguist-generated -diff
