@@ -18,7 +18,9 @@ I am currently trying to spend my life having more adventures.
 
 # Work
 
-Currently, [GKE](https://cloud.google.com/kubernetes-engine) SRE @ Google
+**Currently Seeking Work!** [Resume](/bin/Matt_Bailey_Resume_2025.pdf), [LinkedIn](https://www.linkedin.com/in/mdbailey/)
+
+Last, [GKE](https://cloud.google.com/kubernetes-engine) SRE for Kubernetes Engine @ Google
 
 Previously, Platform Architect @ [Bethesda](https://www.mobygames.com/person/767193/matt-bailey/)
 
@@ -27,5 +29,5 @@ Previously, previously... [F5, Startups, higher-ed, dirt...](https://www.linkedi
 # Some Other Links
 
 - [GitHub](https://github.com/mattbailey): it's just GitHub.
-- [DadLAN](https://dadlan.com): Annual LAN started with some other dads.
+- [DadLAN](https://dadlan.com): Annual LAN party started with some other dads.
 - Contact: m @ this domain.
