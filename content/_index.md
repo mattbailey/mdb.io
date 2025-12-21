@@ -18,7 +18,7 @@ I am currently trying to spend my life having more adventures.
 
 # Work
 
-**Currently Seeking Work!** [Resume](/bin/Matt_Bailey_Resume_2025.pdf), [LinkedIn](https://www.linkedin.com/in/mdbailey/)
+Currently, Director of Engineering @ [NetBox Labs](https://netboxlabs.com/)
 
 Last, [GKE](https://cloud.google.com/kubernetes-engine) SRE for Kubernetes Engine @ Google
 
@@ -30,4 +30,5 @@ Previously, previously... [F5, Startups, higher-ed, dirt...](https://www.linkedi
 
 - [GitHub](https://github.com/mattbailey): it's just GitHub.
 - [DadLAN](https://dadlan.com): Annual LAN party started with some other dads.
+- [LinkedIn](https://www.linkedin.com/in/mdbailey/): The cesspool.
 - Contact: m @ this domain.
